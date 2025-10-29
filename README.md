@@ -17,7 +17,7 @@ A Streamlit-based application that uses Large Language Models (LLMs) from Huggin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LLM-Drug-Interaction-Checker.git
+   git clone https://github.com/ayush5499/LLM-Drug-Interaction-Checker.git
    cd LLM-Drug-Interaction-Checker
 2. Install the required packages:
     ```bash
